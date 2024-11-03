@@ -1,0 +1,238 @@
+{
+  "Prefeitos LARANJAL PAULISTA": {
+    "nomeados": [
+      {
+        "eleicao": 1,
+        "nome": "Cyriaco Ferreira do Amaral",
+        "periodo": "26/01/1918 a 08/04/1919"
+      },
+      {
+        "eleicao": 2,
+        "nome": "José Vieira Campos",
+        "periodo": "09/04/1919 a 13/03/1921"
+      },
+      {
+        "eleicao": 3,
+        "nome": "Custódio Alves de Campos Lima",
+        "periodo": "14/03/1921 a 15/01/1922"
+      },
+      {
+        "eleicao": 4,
+        "nome": "Odorico Martins do Amaral",
+        "periodo": "16/01/1922 a 14/01/1923"
+      },
+      {
+        "eleicao": 5,
+        "nome": "Eliezer Teixeira Pinto",
+        "periodo": "15/01/1923 a 22/02/1923"
+      },
+      {
+        "eleicao": 6,
+        "nome": "Cesário Carlos de Almeida",
+        "periodo": "23/02/1923 a 24/05/1925"
+      },
+      {
+        "eleicao": 7,
+        "nome": "Francisco Mattos",
+        "periodo": "25/05/1925 a 31/03/1930"
+      },
+      {
+        "eleicao": 8,
+        "nome": "Lázaro Pires de Mello",
+        "periodo": "01/04/1930 a 29/02/1931"
+      },
+      {
+        "eleicao": 9,
+        "nome": "Ezzelino Zalla",
+        "periodo": "01/03/1931 a 31/03/1931"
+      },
+      {
+        "eleicao": 10,
+        "nome": "Camilo Palandri",
+        "periodo": "01/04/1931 a 14/07/1933"
+      },
+      {
+        "eleicao": 11,
+        "nome": "Antonio Vieira Campos",
+        "periodo": "15/07/1933 a 28/05/1936"
+      },
+      {
+        "eleicao": 12,
+        "nome": "Oscar Vieira Sampaio",
+        "periodo": "29/05/1936 a 31/05/1938"
+      },
+      {
+        "eleicao": 13,
+        "nome": "Custódio Alves de Campos Lima",
+        "periodo": "01/06/1938 a 31/12/1938"
+      },
+      {
+        "eleicao": 14,
+        "nome": "Francisco Mattos",
+        "periodo": "01/01/1939 a 15/02/1941"
+      },
+      {
+        "eleicao": 15,
+        "nome": "José Alves Lima",
+        "periodo": "16/02/1941 a 20/09/1943"
+      },
+      {
+        "eleicao": 16,
+        "nome": "Satyro Rodrigues Alves",
+        "periodo": "21/09/1943 a 15/11/1943"
+      },
+      {
+        "eleicao": 17,
+        "nome": "José Alves Lima",
+        "periodo": "16/11/1943 a 20/10/1944"
+      },
+      {
+        "eleicao": 18,
+        "nome": "Antonio Alves Lima",
+        "periodo": "21/10/1944 a 31/04/1946"
+      },
+      {
+        "eleicao": 19,
+        "nome": "Orlando Pasquotto",
+        "periodo": "01/05/1946 a 01/04/1947"
+      },
+      {
+        "eleicao": 20,
+        "nome": "Francisco Mattos",
+        "periodo": "02/04/1947 a 31/05/1947"
+      },
+      {
+        "eleicao": 21,
+        "nome": "Angelino Antonio Castanho",
+        "periodo": "01/06/1947 a 31/12/1947"
+      }
+    ],
+    "eleitos": [
+      {
+        "eleicao": 22,
+        "nome": "Mario de Arruda Camargo",
+        "periodo": "01/01/1948 a 19/02/1950"
+      },
+      {
+        "eleicao": 23,
+        "nome": "Antonio Vieira Campos",
+        "periodo": "20/02/1950 a 20/08/1950"
+      },
+      {
+        "eleicao": 24,
+        "nome": "Mario de Arruda Camargo",
+        "periodo": "21/08/1950 a 31/02/1951"
+      },
+      {
+        "eleicao": 25,
+        "nome": "Lázaro Pires de Mello",
+        "periodo": "01/03/1951 a 31/12/1951"
+      },
+      {
+        "eleicao": 26,
+        "nome": "João Salto",
+        "periodo": "01/01/1952 a 31/12/1955"
+      },
+      {
+        "eleicao": 27,
+        "nome": "Hermelindo Pillon",
+        "periodo": "01/01/1956 a 31/12/1959"
+      },
+      {
+        "eleicao": 28,
+        "nome": "João Salto",
+        "periodo": "01/01/1960 a 29/02/1962"
+      },
+      {
+        "eleicao": 29,
+        "nome": "Said Fadel Fadel",
+        "periodo": "01/03/1962 a 31/10/1963"
+      },
+      {
+        "eleicao": 30,
+        "nome": "João Salto",
+        "periodo": "01/11/1963 a 31/12/1963"
+      },
+      {
+        "eleicao": 31,
+        "nome": "Herminio Zalla",
+        "periodo": "01/01/1964 a 30/09/1966"
+      },
+      {
+        "eleicao": 32,
+        "nome": "Antonio Benetton",
+        "periodo": "01/10/1966 a 31/01/1969"
+      },
+      {
+        "eleicao": 33,
+        "nome": "Hermelindo Pillon",
+        "periodo": "01/02/1969 a 30/01/1973"
+      },
+      {
+        "eleicao": 34,
+        "nome": "José Correa",
+        "periodo": "31/01/1973 a 31/01/1977"
+      },
+      {
+        "eleicao": 35,
+        "nome": "Hermelindo Pillon",
+        "periodo": "01/02/1977 a 31/01/1983"
+      },
+      {
+        "eleicao": 36,
+        "nome": "Air Pires de Campos",
+        "periodo": "01/02/1983 a 31/12/1988"
+      },
+      {
+        "eleicao": 37,
+        "nome": "Vicente di Santi",
+        "periodo": "01/01/1989 a 31/12/1992"
+      },
+      {
+        "eleicao": 38,
+        "nome": "Air Pires de Campos",
+        "periodo": "01/01/1993 a 31/12/1996"
+      },
+      {
+        "eleicao": 39,
+        "nome": "Roque Lázaro Lara",
+        "periodo": "01/01/1997 a 31/12/2000"
+      },
+      {
+        "eleicao": 40,
+        "nome": "Roberto Fuglini",
+        "periodo": "01/01/2001 a 31/12/2004"
+      },
+      {
+        "eleicao": 41,
+        "nome": "Roberto Fuglini",
+        "periodo": "01/01/2005 a 31/12/2008"
+      },
+      {
+        "eleicao": 42,
+        "nome": "Heitor Camarin Júnior",
+        "periodo": "01/01/2009 a 31/12/2012"
+      },
+      {
+        "eleicao": 43,
+        "nome": "Heitor Camarin Júnior",
+        "periodo": "01/01/2013 a 31/12/2016"
+      },
+      {
+        "eleicao": 44,
+        "nome": "Alcides de Moura Campos Junior",
+        "periodo": "01/01/2017 a 31/12/2020"
+      },
+      {
+        "eleicao": 44,
+        "nome": "Alcides de Moura Campos Junior",
+        "periodo": "01/01/2021 a 31/12/2024"
+      },
+      {
+        "eleicao": 45,
+        "nome": "Antonio Valdecir Berto Filho",
+        "periodo": "01/01/2025 a 31/12/2029"
+      }
+    ]
+  }
+}
