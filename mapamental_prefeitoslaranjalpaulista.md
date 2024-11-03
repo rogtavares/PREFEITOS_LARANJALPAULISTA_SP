@@ -1,7 +1,7 @@
 ---
 title: markmap
 markmap:
-  colorFreezeLevel: 6
+  colorFreezeLevel: 8
 ---
 
 ## Links Gé Tavares
@@ -9,11 +9,12 @@ markmap:
 
 ## Related Projects
 
-# TODOS PREFEITOS DE LARANJAL PAULISTA
+# PREFEITOS DE LARANJAL PAULISTA (todos)
 
 
 
-## 1. Prefeitos Nomeados **(1918 - 1947)**
+## 1. Prefeitos Nomeados 
+   #####  **(1918-1947)**
    - **1º**: Cyriaco Ferreira do Amaral (26/01/1918 a 08/04/1919)
    - **2º**: José Vieira Campos (09/04/1919 a 13/03/1921)
    - **3º**: Custódio Alves de Campos Lima (14/03/1921 a 15/01/1922)
@@ -36,7 +37,10 @@ markmap:
    - **20º**: Francisco Mattos (02/04/1947 a 31/05/1947)
    - **21º**: Angelino Antonio Castanho (01/06/1947 a 31/12/1947)
 
-## 2. Prefeitos Eleitos **(1948 - presente)**
+## 2. Prefeitos Eleitos 
+   #####  **(1948-Presente)**
+  
+  
    - **22º**: Mario de Arruda Camargo (01/01/1948 a 19/02/1950)
    - **23º**: Antonio Vieira Campos (20/02/1950 a 20/08/1950)
    - **24º**: Mario de Arruda Camargo (21/08/1950 a 31/02/1951)
